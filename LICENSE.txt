@@ -1,4 +1,4 @@
 (C) 2024 The extremely Tiny Game Studio. All rights reserved.
 
-Based on Code from the Asset Store in 2014, (c) by Unity A/S, Standard Unity Asset Store EULA
+Based on Code from the Asset Store, (C) 2014 by Unity A/S, Standard Unity Asset Store EULA
 
